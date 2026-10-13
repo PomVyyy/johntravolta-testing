@@ -1,6 +1,6 @@
 def hitung_keuangan(jam_kerja, pengeluaran):
-    tarif_normal = 15000
-    batas_normal = 40
+    tarif_normal = 50000
+    batas_normal = 85
     tarif_lembur = tarif_normal * 1.5
     
     # 1. Menghitung Gaji
